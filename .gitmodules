@@ -1,4 +1,4 @@
 [submodule "src/main/docsrc"]
 	path = src/main/docsrc
-	url = https://github.com/dita-ot/docs.git
+	url = https://github.com/DeltaXML/dita-ot-docs.git
 
